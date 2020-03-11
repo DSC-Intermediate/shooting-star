@@ -1,0 +1,3 @@
+blankFile(){
+    console.log;
+}
